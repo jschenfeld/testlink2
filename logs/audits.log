@@ -1,0 +1,748 @@
+	[11/Mar/19 08:05:48][AUDIT][l93tbe5cmkuu4rqjbcii83d9a0][GUI]
+		Test Project 'POSTGRES' was created
+	[12/Mar/6 10:01:18][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		Login for 'admin' from '62.80.198.242' succeeded
+	[12/Mar/6 10:03:10][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		User 'admin' was saved
+	[12/Mar/6 10:03:16][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		Password of user 'admin' was saved
+	[12/Mar/6 10:03:20][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		Logout of 'admin'
+	[12/Mar/6 10:03:24][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		Login for 'admin' from '62.80.198.242' succeeded
+	[12/Mar/6 10:05:45][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		Test Project 'First test project' was created
+	[12/Mar/6 10:08:31][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		User 'jonas' was created
+	[12/Mar/6 10:09:14][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		Logout of 'admin'
+	[12/Mar/6 10:09:23][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		Login for 'jonas' from '62.80.198.242' succeeded
+	[12/Mar/6 10:18:21][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		Test Project 'First test project' - Test Plan 'First test plan' was created
+	[12/Mar/6 10:20:20][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		Test Project 'First test project' - Test Plan 'First test plan' - Build 'A first release' was created
+	[12/Mar/6 10:21:19][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		Test Plan 'First test plan' - Milestone 'A first milestone' was created
+	[12/Mar/6 10:38:42][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		Test Project 'Cikab Nonfood season' was created
+	[12/Mar/6 10:40:37][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		Test Project 'First test project' - Test Plan 'Portal sales orders and quotes' was created
+	[12/Mar/6 10:41:42][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		All user roles were unassigned from the Test Plan 'Portal sales orders and quotes'
+	[12/Mar/6 10:41:42][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		Test Project 'First test project' - Test Plan 'Portal sales orders and quotes' was deleted
+	[12/Mar/6 10:43:24][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		Test Project 'Cikab Nonfood season' - Test Plan 'Cikab screen for creation of trouble tickets' was created
+	[12/Mar/6 10:44:50][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		Test Project 'Cikab Nonfood season' - Test Plan 'Cikab screen for creation of trouble tickets' - Build 'March - test issue 46' was created
+	[12/Mar/6 10:47:27][AUDIT][sckp2tof131ma2d2cuibs8nv51][GUI]
+		Test Plan 'Cikab screen for creation of trouble tickets' - Milestone 'Finish test' was created
+	[12/Mar/12 14:50:38][AUDIT][iphjcd8h5khoanfkaa0pueki91][GUI]
+		Login for 'jonas' from '62.80.198.242' succeeded
+	[12/Mar/12 15:05:12][AUDIT][iphjcd8h5khoanfkaa0pueki91][GUI]
+		Logout of 'jonas'
+	[12/Mar/12 15:05:17][AUDIT][iphjcd8h5khoanfkaa0pueki91][GUI]
+		Login for 'admin' from '62.80.198.242' succeeded
+	[12/Mar/12 15:24:11][AUDIT][iphjcd8h5khoanfkaa0pueki91][GUI]
+		User 'devasis' was created
+	[12/Mar/12 15:29:29][AUDIT][iphjcd8h5khoanfkaa0pueki91][GUI]
+		User 'ashish' was created
+	[12/Mar/12 15:36:56][AUDIT][iphjcd8h5khoanfkaa0pueki91][GUI]
+		Test Case 'CIKABNFS-1 : Create sales orders' version 1 was added to Test Plan Cikab screen for creation of trouble tickets
+	[12/Mar/12 15:37:05][AUDIT][iphjcd8h5khoanfkaa0pueki91][GUI]
+		Test Case 'CIKABNFS-2 : Create quotes' version 1 was added to Test Plan Cikab screen for creation of trouble tickets
+	[12/Mar/12 15:37:11][AUDIT][iphjcd8h5khoanfkaa0pueki91][GUI]
+		Test Case 'CIKABNFS-3 : Check quote and order quantities in the portal' version 1 was added to Test Plan Cikab screen for creation of trouble tickets
+	[12/Mar/12 15:45:39][AUDIT][iphjcd8h5khoanfkaa0pueki91][GUI]
+		Logout of 'admin'
+	[12/Mar/13 06:43:20][AUDIT][rbckp7veb9r6060d4mgd8s23s1][GUI]
+		Login for 'devasis' from '122.160.150.82' succeeded
+	[12/Mar/13 06:54:48][AUDIT][da89ov2jk39fqgi7hprps4p866][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Mar/13 07:40:06][AUDIT][iphjcd8h5khoanfkaa0pueki91][GUI]
+		Login for 'admin' from '62.80.198.242' succeeded
+	[12/Mar/13 07:40:08][AUDIT][iphjcd8h5khoanfkaa0pueki91][GUI]
+		Logout of 'admin'
+	[12/Mar/13 07:40:13][AUDIT][iphjcd8h5khoanfkaa0pueki91][GUI]
+		Login for 'jonas' from '62.80.198.242' succeeded
+	[12/Mar/16 08:21:07][AUDIT][qu6qc9hjqb71cjrgc5ffk202g3][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Mar/16 09:14:07][AUDIT][qu6qc9hjqb71cjrgc5ffk202g3][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Mar/19 15:00:45][AUDIT][3nnnfrlubidjqk7d3mqu1dc7a5][GUI]
+		Login for 'jonas' from '78.69.85.168' succeeded
+	[12/Mar/19 16:02:57][AUDIT][b66ljllnobmi6ngsjumg8f7rh5][GUI]
+		Login for 'devasis' from '122.176.172.191' succeeded
+	[12/Mar/19 16:39:01][AUDIT][3nnnfrlubidjqk7d3mqu1dc7a5][GUI]
+		Test Project 'Cikab Nonfood season' - Test Plan 'Test of Sales ORder Screen' was created
+	[12/Mar/19 16:41:50][AUDIT][3nnnfrlubidjqk7d3mqu1dc7a5][GUI]
+		Test Project 'Cikab Nonfood season' - Test Plan 'Cikab screen for creation of trouble tickets' - Build 'Release for Sales Order screen' was created
+	[12/Mar/19 16:55:17][AUDIT][<nosession>][GUI]
+		Login for 'devasis' from '122.176.172.191' failed
+	[12/Mar/19 16:55:30][AUDIT][0l84gunnob6b9d7iesobrkgff2][GUI]
+		Login for 'ashish' from '101.63.13.225' succeeded
+	[12/Mar/19 16:55:39][AUDIT][b66ljllnobmi6ngsjumg8f7rh5][GUI]
+		Login for 'devasis' from '122.176.172.191' succeeded
+	[12/Mar/19 16:56:48][AUDIT][3nnnfrlubidjqk7d3mqu1dc7a5][GUI]
+		User 'devasis' was saved
+	[12/Mar/19 16:56:52][AUDIT][b66ljllnobmi6ngsjumg8f7rh5][GUI]
+		Logout of 'devasis'
+	[12/Mar/19 16:56:52][AUDIT][0l84gunnob6b9d7iesobrkgff2][GUI]
+		Logout of 'ashish'
+	[12/Mar/19 16:57:02][AUDIT][3nnnfrlubidjqk7d3mqu1dc7a5][GUI]
+		User 'ashish' was saved
+	[12/Mar/19 16:57:06][AUDIT][0l84gunnob6b9d7iesobrkgff2][GUI]
+		Login for 'ashish' from '101.63.13.225' succeeded
+	[12/Mar/19 16:57:10][AUDIT][b66ljllnobmi6ngsjumg8f7rh5][GUI]
+		Login for 'devasis' from '122.176.172.191' succeeded
+	[12/Mar/20 04:30:04][AUDIT][0l84gunnob6b9d7iesobrkgff2][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Mar/20 07:09:42][AUDIT][665g3h2hkd16ism0ppgudff4b1][GUI]
+		Login for 'devasis' from '122.160.150.82' succeeded
+	[12/Mar/20 09:36:54][AUDIT][0l84gunnob6b9d7iesobrkgff2][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Mar/20 10:23:01][AUDIT][p7nfm9fpim90kg6tlaijhftev6][GUI]
+		Login for 'ashish' from '122.160.147.75' succeeded
+	[12/Mar/20 10:23:49][AUDIT][p7nfm9fpim90kg6tlaijhftev6][GUI]
+		Test Project 'Cikab Nonfood season' - Test Plan 'Cikab screen for creation of trouble tickets' - Build 'Test case Sample' was created
+	[12/Mar/20 10:24:21][AUDIT][p7nfm9fpim90kg6tlaijhftev6][GUI]
+		Test Project 'Cikab Nonfood season' - Test Plan 'Cikab screen for creation of trouble tickets' - Build 'Test case Sample' was saved
+	[12/Mar/20 10:41:53][AUDIT][p7nfm9fpim90kg6tlaijhftev6][GUI]
+		Test Project 'Cikab Nonfood season' - Test Plan 'Cikab screen for creation of trouble tickets' - Build 'Test case Sample' was deleted
+	[12/Mar/20 10:42:24][AUDIT][p7nfm9fpim90kg6tlaijhftev6][GUI]
+		Test Project 'Cikab Nonfood season' - Test Plan 'Test plan for ashish' was created
+	[12/Mar/20 12:28:02][AUDIT][<nosession>][GUI]
+		Login for 'ashish' from '122.160.150.82' failed
+	[12/Mar/20 12:28:10][AUDIT][0l84gunnob6b9d7iesobrkgff2][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Mar/21 09:06:18][AUDIT][l92ruc8p1q8flhc15424maqvj2][GUI]
+		Login for 'jonas' from '88.131.63.14' succeeded
+	[12/Mar/23 04:37:12][AUDIT][u47s9ob0akbuoe5716fd38efp4][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Mar/23 04:53:44][AUDIT][<nosession>][GUI]
+		Login for 'ashish' from '122.160.150.82' failed
+	[12/Mar/23 04:54:36][AUDIT][<nosession>][GUI]
+		Login for 'ashish' from '122.160.150.82' failed
+	[12/Mar/23 04:54:46][AUDIT][cbeoh6lag836ueca3b548ciuu6][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Mar/23 05:57:13][AUDIT][u47s9ob0akbuoe5716fd38efp4][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Mar/23 06:55:26][AUDIT][u47s9ob0akbuoe5716fd38efp4][GUI]
+		Test Project 'Cikab Nonfood season' - Test Plan 'Test plan for ashish' - Build 'Create Test Build' was created
+	[12/Mar/23 07:06:43][AUDIT][u47s9ob0akbuoe5716fd38efp4][GUI]
+		Test Project 'Cikab Nonfood season' - Test Plan 'Test plan for ashish' - Build 'Create Test Build' was deleted
+	[12/Mar/23 07:41:58][AUDIT][u47s9ob0akbuoe5716fd38efp4][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Mar/23 07:42:55][AUDIT][u47s9ob0akbuoe5716fd38efp4][GUI]
+		Test Case 'CIKABNFS-5 : Check Sales Orders as Store and Central user' version 1 was added to Test Plan Test of Sales ORder Screen
+	[12/Mar/23 07:47:41][AUDIT][u47s9ob0akbuoe5716fd38efp4][GUI]
+		Test Project 'Cikab Nonfood season' - Test Plan 'Test of Sales ORder Screen' - Build 'Release/Build for Sales Order screen' was created
+	[12/Mar/23 08:03:00][AUDIT][cbeoh6lag836ueca3b548ciuu6][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Mar/23 08:18:04][AUDIT][1g77np8gqqe1mnlsd1aul8e842][GUI]
+		Login for 'jonas' from '62.80.198.242' succeeded
+	[12/Mar/23 09:11:41][AUDIT][u47s9ob0akbuoe5716fd38efp4][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Mar/23 09:13:47][AUDIT][u47s9ob0akbuoe5716fd38efp4][GUI]
+		Logout of 'ashish'
+	[12/Mar/23 09:35:17][AUDIT][cbeoh6lag836ueca3b548ciuu6][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Mar/23 10:39:47][AUDIT][cbeoh6lag836ueca3b548ciuu6][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Mar/27 08:14:42][AUDIT][fpfuapvtddrim2h048fq5p9gb7][GUI]
+		Login for 'jonas' from '62.80.198.242' succeeded
+	[12/Mar/30 07:42:59][AUDIT][9ragts4c78tdbfm993m969sba2][GUI]
+		Login for 'jonas' from '62.80.198.242' succeeded
+	[12/Apr/5 08:17:20][AUDIT][m78r5d5uogesm1d75hcdgpgrp4][GUI]
+		Login for 'jonas' from '62.80.198.242' succeeded
+	[12/Apr/5 08:50:15][AUDIT][k6fm52f041jbk0j48nidiul3a5][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Apr/5 08:51:09][AUDIT][70hgm6hoj8mkhoorn3mmfi71v6][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Apr/5 12:27:22][AUDIT][k6fm52f041jbk0j48nidiul3a5][GUI]
+		Login for 'ashish' from '122.160.147.75' succeeded
+	[12/Apr/6 03:57:52][AUDIT][k6fm52f041jbk0j48nidiul3a5][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Apr/6 04:23:34][AUDIT][70hgm6hoj8mkhoorn3mmfi71v6][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Apr/6 05:24:54][AUDIT][k6fm52f041jbk0j48nidiul3a5][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Apr/6 07:28:57][AUDIT][70hgm6hoj8mkhoorn3mmfi71v6][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Apr/6 08:39:24][AUDIT][70hgm6hoj8mkhoorn3mmfi71v6][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Apr/6 09:04:15][AUDIT][70hgm6hoj8mkhoorn3mmfi71v6][GUI]
+		Logout of 'ashish'
+	[12/Apr/6 09:04:19][AUDIT][70hgm6hoj8mkhoorn3mmfi71v6][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Apr/10 07:15:59][AUDIT][0sh19k7um9d04af7s98ktaduf7][GUI]
+		Login for 'jonas' from '62.80.198.242' succeeded
+	[12/May/31 10:42:49][AUDIT][lr66leefmtnqvt4hnoia3mscu3][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Jun/2 06:04:27][AUDIT][l2vvcejqi3svj2s0j223cv54v6][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Jun/2 06:47:21][AUDIT][l2vvcejqi3svj2s0j223cv54v6][GUI]
+		Login for 'ashish' from '122.160.147.75' succeeded
+	[12/Jun/5 08:05:53][AUDIT][60qu5eg2l6c1pp40qv6k0108s4][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Jun/5 08:47:34][AUDIT][60qu5eg2l6c1pp40qv6k0108s4][GUI]
+		Login for 'ashish' from '122.160.147.75' succeeded
+	[12/Jun/6 04:33:11][AUDIT][60qu5eg2l6c1pp40qv6k0108s4][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Jun/6 08:35:48][AUDIT][60qu5eg2l6c1pp40qv6k0108s4][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Jun/6 09:09:34][AUDIT][60qu5eg2l6c1pp40qv6k0108s4][GUI]
+		Login for 'ashish' from '122.160.147.75' succeeded
+	[12/Jun/6 09:49:08][AUDIT][gbags4kmomnfsi5m5cvdidt5p7][GUI]
+		Login for 'ashish' from '122.160.147.75' succeeded
+	[12/Jun/6 10:45:54][AUDIT][60qu5eg2l6c1pp40qv6k0108s4][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Jun/7 04:17:57][AUDIT][60qu5eg2l6c1pp40qv6k0108s4][GUI]
+		Login for 'ashish' from '122.160.147.75' succeeded
+	[12/Jun/7 06:19:37][AUDIT][60qu5eg2l6c1pp40qv6k0108s4][GUI]
+		Logout of 'ashish'
+	[12/Jun/7 12:05:38][AUDIT][gbags4kmomnfsi5m5cvdidt5p7][GUI]
+		Login for 'ashish' from '101.63.50.79' succeeded
+	[12/Jun/7 12:26:30][AUDIT][e44rv20abe8kkignoqvhua2pa7][GUI]
+		Login for 'jonas' from '88.131.63.14' succeeded
+	[12/Jun/11 09:10:13][AUDIT][60qu5eg2l6c1pp40qv6k0108s4][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Jun/11 10:10:39][AUDIT][4l1tlhgng3mefelqmok49fggj0][GUI]
+		Login for 'jonas' from '62.80.198.242' succeeded
+	[12/Jun/11 10:34:31][AUDIT][60qu5eg2l6c1pp40qv6k0108s4][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Jun/11 10:35:36][AUDIT][60qu5eg2l6c1pp40qv6k0108s4][GUI]
+		Test Case 'CIKABNFS-8 : PHP Job 3 – dequeue and send over ftp' version 1 was added to Test Plan Test of Sales Order Export
+	[12/Jun/11 12:24:08][AUDIT][60qu5eg2l6c1pp40qv6k0108s4][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Jun/11 12:42:59][AUDIT][60qu5eg2l6c1pp40qv6k0108s4][GUI]
+		Logout of 'ashish'
+	[12/Jun/12 04:56:37][AUDIT][60qu5eg2l6c1pp40qv6k0108s4][GUI]
+		Login for 'ashish' from '122.160.147.75' succeeded
+	[12/Jun/12 06:44:01][AUDIT][60qu5eg2l6c1pp40qv6k0108s4][GUI]
+		Login for 'ashish' from '122.160.147.75' succeeded
+	[12/Jun/12 06:47:48][AUDIT][o486svev3h1cqtm55l9qjimst3][GUI]
+		Login for 'ashish' from '115.240.84.118' succeeded
+	[12/Jun/12 07:09:06][AUDIT][4l1tlhgng3mefelqmok49fggj0][GUI]
+		Login for 'jonas' from '62.80.198.242' succeeded
+	[12/Jun/12 08:24:45][AUDIT][60qu5eg2l6c1pp40qv6k0108s4][GUI]
+		Login for 'ashish' from '122.160.147.75' succeeded
+	[12/Jun/15 07:20:32][AUDIT][b0lfe0h3apd9i3dh8se1de3s13][GUI]
+		Login for 'jonas' from '62.80.198.242' succeeded
+	[12/Jul/16 10:55:51][AUDIT][0vi5o27o19vg3ujdepo4ln7lr3][GUI]
+		Login for 'ashish' from '122.160.147.75' succeeded
+	[12/Jul/16 11:34:24][AUDIT][0vi5o27o19vg3ujdepo4ln7lr3][GUI]
+		Logout of 'ashish'
+	[12/Aug/9 04:23:37][AUDIT][m67rtf2am16t6om3k1iba1gki0][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Aug/21 05:43:07][AUDIT][j4kctu9e2qlj0ato7alj72n6g3][GUI]
+		Login for 'ashish' from '122.160.147.75' succeeded
+	[12/Aug/21 05:43:16][AUDIT][j4kctu9e2qlj0ato7alj72n6g3][GUI]
+		Logout of 'ashish'
+	[12/Sep/1 05:34:44][AUDIT][9q4ltcss618ui7a3givc6q4b76][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Sep/1 05:45:10][AUDIT][9q4ltcss618ui7a3givc6q4b76][GUI]
+		Logout of 'ashish'
+	[12/Sep/1 06:06:17][AUDIT][9q4ltcss618ui7a3givc6q4b76][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Sep/1 08:53:14][AUDIT][lprl4nnhin6im0n3tah26642h6][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Sep/1 08:54:03][AUDIT][lprl4nnhin6im0n3tah26642h6][GUI]
+		Logout of 'ashish'
+	[12/Sep/3 04:59:03][AUDIT][hig8jnc3uh0584j9vdvb646p93][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Sep/3 05:23:44][AUDIT][hig8jnc3uh0584j9vdvb646p93][GUI]
+		Logout of 'ashish'
+	[12/Sep/3 08:15:00][AUDIT][k048lqs54cjnh2ndo0mlgm2ov6][GUI]
+		Login for 'jonas' from '62.80.198.242' succeeded
+	[12/Sep/3 08:15:34][AUDIT][k048lqs54cjnh2ndo0mlgm2ov6][GUI]
+		Test Project 'Cikab Nonfood season' - Test Plan 'Clab Trailer App and portal' was created
+	[12/Sep/3 08:16:37][AUDIT][k048lqs54cjnh2ndo0mlgm2ov6][GUI]
+		Test Project 'Clab Trailer App and Portal' was created
+	[12/Sep/3 08:17:04][AUDIT][k048lqs54cjnh2ndo0mlgm2ov6][GUI]
+		Test Project 'Clab Trailer App and Portal' was saved
+	[12/Sep/3 08:20:58][AUDIT][k048lqs54cjnh2ndo0mlgm2ov6][GUI]
+		User 'akumar' was created
+	[12/Sep/4 07:13:53][AUDIT][k048lqs54cjnh2ndo0mlgm2ov6][GUI]
+		Login for 'jonas' from '62.80.198.242' succeeded
+	[12/Sep/4 07:16:41][AUDIT][g8bt0t9mgubps39ofnhp94bgb5][GUI]
+		Login for 'akumar' from '122.160.150.82' succeeded
+	[12/Sep/4 07:21:13][AUDIT][g8bt0t9mgubps39ofnhp94bgb5][GUI]
+		Logout of 'akumar'
+	[12/Sep/4 07:27:13][AUDIT][g8bt0t9mgubps39ofnhp94bgb5][GUI]
+		Login for 'ashish' from '182.73.67.110' succeeded
+	[12/Sep/5 08:43:50][AUDIT][a9ns7u6pp1niug6atck6a0vun2][GUI]
+		Login for 'ashish' from '182.73.67.110' succeeded
+	[12/Sep/5 10:07:58][AUDIT][a9ns7u6pp1niug6atck6a0vun2][GUI]
+		Logout of 'ashish'
+	[12/Sep/5 11:08:04][AUDIT][a9ns7u6pp1niug6atck6a0vun2][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Sep/6 04:14:14][AUDIT][rovfe9pem27c2vs0fn35q521h4][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Sep/6 09:13:16][AUDIT][rovfe9pem27c2vs0fn35q521h4][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Sep/6 09:30:53][AUDIT][a9ns7u6pp1niug6atck6a0vun2][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Sep/6 12:31:52][AUDIT][vs317qc3aba0u487ae1ntskap1][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Sep/6 13:49:13][AUDIT][vs317qc3aba0u487ae1ntskap1][GUI]
+		Logout of 'ashish'
+	[12/Sep/7 04:12:49][AUDIT][vs317qc3aba0u487ae1ntskap1][GUI]
+		Login for 'ashish' from '182.73.67.110' succeeded
+	[12/Sep/7 05:41:57][AUDIT][vs317qc3aba0u487ae1ntskap1][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Sep/7 06:45:12][AUDIT][vs317qc3aba0u487ae1ntskap1][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Sep/7 06:53:23][AUDIT][rovfe9pem27c2vs0fn35q521h4][GUI]
+		Login for 'ashish' from '182.73.67.110' succeeded
+	[12/Sep/7 06:56:16][AUDIT][vs317qc3aba0u487ae1ntskap1][GUI]
+		Logout of 'ashish'
+	[12/Sep/7 07:03:53][AUDIT][mapecuhuufjarv5e8qj7ctsv47][GUI]
+		Login for 'jonas' from '81.233.12.31' succeeded
+	[12/Sep/11 06:42:21][AUDIT][a82g0ccl7hv03ljsfr5jhopqt6][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Sep/11 06:56:09][AUDIT][j66phlc3ssmbh4udh2bcdn7mo5][GUI]
+		Login for 'jonas' from '62.80.198.242' succeeded
+	[12/Sep/12 07:58:47][AUDIT][vo6rpm5jk54b4vu8chgd9ohnp5][GUI]
+		Login for 'ashish' from '182.73.67.110' succeeded
+	[12/Sep/12 07:59:19][AUDIT][vo6rpm5jk54b4vu8chgd9ohnp5][GUI]
+		Logout of 'ashish'
+	[12/Sep/13 10:40:39][AUDIT][tcl0mrp32ab8us8hee7fjfb1s4][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Sep/14 07:03:01][AUDIT][eurun4tspc2pdjpkfll8047874][GUI]
+		Login for 'jonas' from '78.69.82.146' succeeded
+	[12/Sep/17 07:24:01][AUDIT][f9l2gj96324hejggnbqfoidm13][GUI]
+		Login for 'jonas' from '62.80.198.242' succeeded
+	[12/Sep/17 07:25:53][AUDIT][f9l2gj96324hejggnbqfoidm13][GUI]
+		User 'pankaj' was created
+	[12/Sep/17 07:26:42][AUDIT][f9l2gj96324hejggnbqfoidm13][GUI]
+		Test Project 'GsLabs Trailer App' was created
+	[12/Sep/17 08:03:55][AUDIT][61hdbe5rjc5hs134g5mloph392][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Sep/17 09:48:35][AUDIT][61hdbe5rjc5hs134g5mloph392][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Sep/17 12:24:26][AUDIT][61hdbe5rjc5hs134g5mloph392][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Sep/18 03:59:27][AUDIT][61hdbe5rjc5hs134g5mloph392][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Sep/18 04:42:43][AUDIT][61hdbe5rjc5hs134g5mloph392][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Sep/18 07:18:25][AUDIT][f9l2gj96324hejggnbqfoidm13][GUI]
+		Login for 'jonas' from '62.80.198.242' succeeded
+	[12/Sep/18 08:39:53][AUDIT][61hdbe5rjc5hs134g5mloph392][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Sep/19 04:54:37][AUDIT][q3jhbbkku3i0sam9onpjh5dtf0][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Sep/20 05:04:29][AUDIT][97t74gmv93e3ak5som6rsus7v1][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Sep/20 08:08:51][AUDIT][97t74gmv93e3ak5som6rsus7v1][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Sep/24 04:57:18][AUDIT][p9587j8oipg7jq30dqr5ei5bs0][GUI]
+		Login for 'ashish' from '122.160.150.82' succeeded
+	[12/Sep/24 05:17:20][AUDIT][p9587j8oipg7jq30dqr5ei5bs0][GUI]
+		Logout of 'ashish'
+	[12/Sep/24 09:59:43][AUDIT][gaj4fjrkp6jl3ohrucuatiam92][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Sep/25 05:08:13][AUDIT][gaj4fjrkp6jl3ohrucuatiam92][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Oct/1 05:42:16][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Oct/1 07:41:50][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Oct/1 07:58:49][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Project 'GsLabs Trailer App' - Test Plan 'Damage claim' was created
+	[12/Oct/1 08:00:41][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Project 'GsLabs Trailer App' - Test Plan 'Damage claim' - Build 'Damage claim 1.0' was created
+	[12/Oct/1 08:02:19][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-8 : Reset functinality' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:02:19][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-9 : State chage of button Damages' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:02:19][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-7 : Logout Functinality' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:02:19][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-14 : Tap on ID' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:02:19][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-15 : Tap on Place' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:02:19][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-16 : Submit button functionality' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:02:26][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-1 : login to app' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:02:26][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-2 : Blank user_name field' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:02:26][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-3 :  Blank password field' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:02:26][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-4 : Incorrect username' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:02:26][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-5 : Incorrect password' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:02:26][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-6 : Correct username and correct password' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:02:41][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-10 : In Damage details tapping on Type' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:02:41][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-11 : In damage details tapping on position without selecting type' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:02:41][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-12 : Reporting duplcate Damage' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:02:41][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-13 : In Damage Details check for Type and position pair' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:02:41][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-17 : Add a new image button Functionality' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:02:41][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-19 : Submit button functionality' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:02:59][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-18 : Tap on Previously reported damage' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:28:49][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-27 : Trailer is in operation after the repair, the trouble tickets for the repaired damages are closed' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:28:49][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-26 : Trailer is taken out of operation and into repair' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:28:49][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-25 : Driver reports a on a trailer that has ten damages' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:28:49][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-20 : Driver reports a damage on a trailer that has one damage' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:28:49][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-23 : Driver reports a survey without any damage' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 08:28:49][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-28 : tap on link or copy and paste it in browser's address bar' version 1 was added to Test Plan Damage claim - Platform:Apple iphone 4s
+	[12/Oct/1 10:29:06][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Oct/3 08:01:11][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Oct/3 08:03:00][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Project 'GsLabs Trailer App' - Test Plan 'Damage claim Android' was created
+	[12/Oct/3 08:03:33][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Project 'GsLabs Trailer App' - Test Plan 'Damage claim Android' was saved
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-18 : Tap on Previously reported damage' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-1 : login to app' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-2 : Blank user_name field' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-3 :  Blank password field' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-4 : Incorrect username' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-5 : Incorrect password' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-6 : Correct username and correct password' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-8 : Reset functinality' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-9 : State chage of button Damages' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-7 : Logout Functinality' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-14 : Tap on ID' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-15 : Tap on Place' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-16 : Submit button functionality' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-10 : In Damage details tapping on Type' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-11 : In damage details tapping on position without selecting type' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-12 : Reporting duplcate Damage' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-13 : In Damage Details check for Type and position pair' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-17 : Add a new image button Functionality' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-19 : Submit button functionality' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-27 : Trailer is in operation after the repair, the trouble tickets for the repaired damages are closed' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-26 : Trailer is taken out of operation and into repair' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-25 : Driver reports a on a trailer that has ten damages' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-20 : Driver reports a damage on a trailer that has one damage' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-23 : Driver reports a survey without any damage' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:21:35][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-28 : tap on link or copy and paste it in browser's address bar' version 1 was removed from Test Plan Damage claim Android - Platform:Apple iphone 4s
+	[12/Oct/3 08:22:44][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-18 : Tap on Previously reported damage' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:44][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-1 : login to app' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:44][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-2 : Blank user_name field' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:44][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-3 :  Blank password field' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:44][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-4 : Incorrect username' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:44][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-5 : Incorrect password' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:44][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-6 : Correct username and correct password' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:44][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-8 : Reset functinality' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:44][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-9 : State chage of button Damages' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:44][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-7 : Logout Functinality' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:44][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-14 : Tap on ID' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:44][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-15 : Tap on Place' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:44][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-16 : Submit button functionality' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:44][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-10 : In Damage details tapping on Type' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:44][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-11 : In damage details tapping on position without selecting type' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:44][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-12 : Reporting duplcate Damage' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:44][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-13 : In Damage Details check for Type and position pair' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:44][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-17 : Add a new image button Functionality' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:45][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-19 : Submit button functionality' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:45][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-27 : Trailer is in operation after the repair, the trouble tickets for the repaired damages are closed' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:45][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-26 : Trailer is taken out of operation and into repair' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:45][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-25 : Driver reports a on a trailer that has ten damages' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:45][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-20 : Driver reports a damage on a trailer that has one damage' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:45][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-23 : Driver reports a survey without any damage' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:22:45][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-28 : tap on link or copy and paste it in browser's address bar' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-18 : Tap on Previously reported damage' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-1 : login to app' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-2 : Blank user_name field' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-3 :  Blank password field' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-4 : Incorrect username' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-5 : Incorrect password' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-6 : Correct username and correct password' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-8 : Reset functinality' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-9 : State chage of button Damages' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-7 : Logout Functinality' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-14 : Tap on ID' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-15 : Tap on Place' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-16 : Submit button functionality' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-10 : In Damage details tapping on Type' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-11 : In damage details tapping on position without selecting type' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-12 : Reporting duplcate Damage' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-13 : In Damage Details check for Type and position pair' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-17 : Add a new image button Functionality' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-19 : Submit button functionality' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-27 : Trailer is in operation after the repair, the trouble tickets for the repaired damages are closed' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-26 : Trailer is taken out of operation and into repair' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-25 : Driver reports a on a trailer that has ten damages' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-20 : Driver reports a damage on a trailer that has one damage' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-23 : Driver reports a survey without any damage' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:23][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-28 : tap on link or copy and paste it in browser's address bar' version 1 was removed from Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-18 : Tap on Previously reported damage' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-1 : login to app' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-2 : Blank user_name field' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-3 :  Blank password field' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-4 : Incorrect username' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-5 : Incorrect password' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-6 : Correct username and correct password' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-8 : Reset functinality' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-9 : State chage of button Damages' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-7 : Logout Functinality' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-14 : Tap on ID' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-15 : Tap on Place' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-16 : Submit button functionality' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-10 : In Damage details tapping on Type' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-11 : In damage details tapping on position without selecting type' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-12 : Reporting duplcate Damage' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-13 : In Damage Details check for Type and position pair' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-17 : Add a new image button Functionality' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-19 : Submit button functionality' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-27 : Trailer is in operation after the repair, the trouble tickets for the repaired damages are closed' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-26 : Trailer is taken out of operation and into repair' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-25 : Driver reports a on a trailer that has ten damages' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-20 : Driver reports a damage on a trailer that has one damage' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-23 : Driver reports a survey without any damage' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/3 08:26:28][AUDIT][4gik1blpam1j6euumqq0kibvh7][GUI]
+		Test Case 'GSLABS-28 : tap on link or copy and paste it in browser's address bar' version 1 was added to Test Plan Damage claim Android - Platform:Google nexus
+	[12/Oct/5 04:29:52][AUDIT][ghoo4tl3hb02v7gfehhtjcir34][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Oct/8 06:00:43][AUDIT][drd2gvqpeecutrd1j4g20f3tt7][GUI]
+		Login for 'pankaj' from '115.113.153.34' succeeded
+	[12/Oct/8 10:05:11][AUDIT][drd2gvqpeecutrd1j4g20f3tt7][GUI]
+		Login for 'pankaj' from '115.113.153.34' succeeded
+	[12/Oct/11 06:59:29][AUDIT][mor7ve5v8rg6i1i55g8adsn6c4][GUI]
+		Login for 'jonas' from '88.131.63.14' succeeded
+	[12/Oct/15 06:13:03][AUDIT][ahcmsmkf74pha7fu0kagojuhh3][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Oct/25 08:59:19][AUDIT][uv9v9feup1s5vnobl0lsd7m1i2][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Nov/5 05:18:05][AUDIT][6nbju9nuronq8qfu35fm1u3q47][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Nov/19 13:31:28][AUDIT][m4pv7e4edhh1qijikeqct0p0m2][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Nov/20 08:33:01][AUDIT][m4pv7e4edhh1qijikeqct0p0m2][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Nov/20 11:14:29][AUDIT][m4pv7e4edhh1qijikeqct0p0m2][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Nov/23 07:10:54][AUDIT][empuqc2q484d6l5cmqb8gd3lg7][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Nov/23 13:13:18][AUDIT][is1a0lame1keeqs5sce5qgl424][GUI]
+		Login for 'jonas' from '62.80.198.242' succeeded
+	[12/Nov/23 13:14:29][AUDIT][is1a0lame1keeqs5sce5qgl424][GUI]
+		User 'gizur-ess-prabhat' was created
+	[12/Nov/23 13:14:41][AUDIT][is1a0lame1keeqs5sce5qgl424][GUI]
+		Logout of 'jonas'
+	[12/Nov/27 04:33:57][AUDIT][p7loeabq1orn7oi87gr10kpnc2][GUI]
+		Login for 'pankaj' from '182.72.78.122' succeeded
+	[12/Dec/7 08:42:14][AUDIT][j9lj7p65mn1pnbng7it3t85765][GUI]
+		Login for 'jonas' from '62.80.198.242' succeeded
+	[12/Dec/11 10:27:55][AUDIT][qnn3j7aoll28btme9dm4u9dkr0][GUI]
+		Login for 'gizur-ess-prabhat' from '122.160.150.82' succeeded
+	[12/Dec/11 10:52:40][AUDIT][qnn3j7aoll28btme9dm4u9dkr0][GUI]
+		Logout of 'gizur-ess-prabhat'
+	[12/Dec/11 11:11:20][AUDIT][qnn3j7aoll28btme9dm4u9dkr0][GUI]
+		Login for 'gizur-ess-prabhat' from '122.160.150.82' succeeded
+	[12/Dec/12 04:21:10][AUDIT][m15mci45iikcr3lsdnnn4bha80][GUI]
+		Login for 'gizur-ess-prabhat' from '122.160.150.82' succeeded
+	[12/Dec/13 04:59:43][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Login for 'gizur-ess-prabhat' from '122.160.150.82' succeeded
+	[12/Dec/13 08:13:29][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Login for 'gizur-ess-prabhat' from '182.73.67.110' succeeded
+	[12/Dec/13 08:19:04][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Test Project 'Cikab Nonfood season' - Test Plan 'Testing vTiger and biker-portal version 5.4.0 with new funtionalities' was created
+	[12/Dec/13 08:39:57][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Test Case 'CIKABNFS-9 : Create Quotation' version 1 was added to Test Plan Testing vTiger and biker-portal version 5.4.0 with new funtionalities
+	[12/Dec/13 09:25:08][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Test Case 'CIKABNFS-10 : Create Sales Order' version 1 was added to Test Plan Testing vTiger and biker-portal version 5.4.0 with new funtionalities
+	[12/Dec/13 09:27:19][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Test Project 'Cikab Nonfood season' - Test Plan 'Testing vTiger and biker-portal version 5.4.0 with new funtionalities' - Build 'Testing Quote and Sales Order module and seeing the result at biker portal.' was created
+	[12/Dec/13 10:40:48][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Test Case 'CIKABNFS-11 : Create Sales Order Call-Offs at biker portal' version 1 was added to Test Plan Testing vTiger and biker-portal version 5.4.0 with new funtionalities
+	[12/Dec/13 10:48:08][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'Before Call-Offs by 10' - file 'Screenshot from 2012-12-13 16:17:11.png' was created
+	[12/Dec/13 10:48:48][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'After Call-Offs by 10' - file 'Screenshot from 2012-12-13 16:18:32.png' was created
+	[12/Dec/13 10:53:22][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'After Call-Offs by 10 result at vTiger' - file 'Screenshot from 2012-12-13 16:22:46.png' was created
+	[12/Dec/13 11:14:54][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Test Case 'CIKABNFS-12 : Increase product quantity by 10.' version 1 was added to Test Plan Testing vTiger and biker-portal version 5.4.0 with new funtionalities
+	[12/Dec/13 11:16:56][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'Before Increasing product by 10' - file 'Screenshot from 2012-12-13 16:46:08.png' was created
+	[12/Dec/13 11:18:18][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'After Increaing the product by 10 at Biker Portal' - file 'Screenshot from 2012-12-13 16:47:24.png' was created
+	[12/Dec/13 11:18:37][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'After Increaing the product by 10 at vTiger' - file 'Screenshot from 2012-12-13 16:47:37.png' was created
+	[12/Dec/13 11:19:18][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'After Increaing the product by 10 at vTiger' was deleted
+	[12/Dec/13 11:19:27][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'After Increaing the product by 10 at Biker Portal' was deleted
+	[12/Dec/13 11:19:56][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'After Increaing the product by 10, result at Biker Portal' - file 'Screenshot from 2012-12-13 16:47:24.png' was created
+	[12/Dec/13 11:20:16][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'After Increaing the product by 10, result at vTiger' - file 'Screenshot from 2012-12-13 16:47:37.png' was created
+	[12/Dec/13 11:26:44][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Test Case 'CIKABNFS-13 : Decrease product quantity by 10.' version 1 was added to Test Plan Testing vTiger and biker-portal version 5.4.0 with new funtionalities
+	[12/Dec/13 11:34:07][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'Before excution list of openned ticket in vTiger' - file 'Screenshot from 2012-12-13 17:01:54.png' was created
+	[12/Dec/13 11:34:28][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'After excution list of openned ticket in vTiger' - file 'Screenshot from 2012-12-13 17:02:08.png' was created
+	[12/Dec/13 11:35:14][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'After excution list of openned ticket in vTiger' was deleted
+	[12/Dec/13 11:35:40][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'After excution list of tickets in vTiger' - file 'Screenshot from 2012-12-13 17:02:08.png' was created
+	[12/Dec/13 11:36:04][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'After excution result at biker portal' - file 'Screenshot from 2012-12-13 17:02:16.png' was created
+	[12/Dec/14 05:12:25][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Login for 'gizur-ess-prabhat' from '122.160.150.82' succeeded
+	[12/Dec/14 05:17:23][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Test Case 'CIKABNFS-14 : Decrease product quantity by 30' version 1 was added to Test Plan Testing vTiger and biker-portal version 5.4.0 with new funtionalities
+	[12/Dec/14 05:19:00][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'Before excution list of tickets in vTiger' - file 'Screenshot from 2012-12-14 10:41:06.png' was created
+	[12/Dec/14 05:19:20][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'After excution list of tickets in vTiger' - file 'Screenshot from 2012-12-14 10:42:17.png' was created
+	[12/Dec/14 05:30:54][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Test Case 'CIKABNFS-15 : Increase product quantity by 50' version 1 was added to Test Plan Testing vTiger and biker-portal version 5.4.0 with new funtionalities
+	[12/Dec/14 05:32:34][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'Before excution list of tickets in vTiger' - file 'Screenshot from 2012-12-14 10:42:17.png' was created
+	[12/Dec/14 05:32:53][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'After excution list of tickets in vTiger' - file 'Screenshot from 2012-12-14 11:02:03.png' was created
+	[12/Dec/14 06:02:23][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Test Case 'CIKABNFS-17 : Decrease product quantity by 30; closing previous increase request tickets' version 1 was added to Test Plan Testing vTiger and biker-portal version 5.4.0 with new funtionalities
+	[12/Dec/14 06:03:11][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'Before excution list of tickets in vTiger' - file 'Screenshot from 2012-12-14 11:30:11.png' was created
+	[12/Dec/14 06:03:26][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'After excution list of tickets in vTiger' - file 'Screenshot from 2012-12-14 11:32:22.png' was created
+	[12/Dec/14 06:15:02][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Test Case 'CIKABNFS-16 : Increase product quantity by 30; closing previous decrease request tickets' version 1 was added to Test Plan Testing vTiger and biker-portal version 5.4.0 with new funtionalities
+	[12/Dec/14 06:17:13][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'Before excution list of tickets in vTiger' - file 'Screenshot from 2012-12-14 11:42:59.png' was created
+	[12/Dec/14 06:17:29][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Attachment 'After excution list of tickets in vTiger' - file 'Screenshot from 2012-12-14 11:46:46.png' was created
+	[12/Dec/14 08:12:52][AUDIT][9p37fdgkk5thirk5636nifl097][GUI]
+		Login for 'gizur-ess-prabhat' from '182.73.67.110' succeeded
+	[12/Dec/14 08:50:20][AUDIT][7ncr4ug0u0bncamg4atp0ihfr0][GUI]
+		Login for 'gizur-ess-prabhat' from '122.160.150.82' succeeded
+	[12/Dec/14 10:03:22][AUDIT][7ncr4ug0u0bncamg4atp0ihfr0][GUI]
+		Login for 'gizur-ess-prabhat' from '122.160.150.82' succeeded
+	[12/Dec/19 06:04:57][AUDIT][3n7jna8r934uql7ec6e17hk8h3][GUI]
+		Login for 'gizur-ess-prabhat' from '203.92.33.67' succeeded
+	[12/Dec/20 06:21:49][AUDIT][3n7jna8r934uql7ec6e17hk8h3][GUI]
+		Login for 'gizur-ess-prabhat' from '203.92.33.67' succeeded
+	[12/Dec/20 10:16:06][AUDIT][i4jj7d8bs70fgcqlhnjr10ecc5][GUI]
+		Login for 'gizur-ess-prabhat' from '203.92.33.67' succeeded
+	[12/Dec/20 11:49:38][AUDIT][i4jj7d8bs70fgcqlhnjr10ecc5][GUI]
+		Login for 'gizur-ess-prabhat' from '203.92.33.67' succeeded
+	[12/Dec/20 11:50:18][AUDIT][i4jj7d8bs70fgcqlhnjr10ecc5][GUI]
+		Test Case 'CIKABNFS-18 : Automate maching between realese and increase ticket.' version 1 was added to Test Plan Testing vTiger and biker-portal version 5.4.0 with new funtionalities
+	[12/Dec/20 11:50:51][AUDIT][i4jj7d8bs70fgcqlhnjr10ecc5][GUI]
+		Logout of 'gizur-ess-prabhat'
+	[12/Dec/21 07:45:44][AUDIT][i4jj7d8bs70fgcqlhnjr10ecc5][GUI]
+		Login for 'gizur-ess-prabhat' from '122.160.150.82' succeeded
